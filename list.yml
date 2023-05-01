@@ -1,0 +1,214 @@
+files:
+  - time: 1662394664810.yml
+    name: clash.provider.yaml
+    url: https://cdn.jsdelivr.net/gh/learnhard-cn/free_proxy_ss@main/clash/clash.provider.yaml
+    selected:
+      - name: GLOBAL
+        now: 中国-广东-广州-ss-14.29.124.168:25252
+    interval: 0
+    subInfo: {}
+    mode: global
+    cron: "*/5 * * * *"
+    headers: ""
+  - time: 1662395233779.yml
+    name: config.yaml
+    url: "
+      https://cdn.jsdelivr.net/gh/learnhard-cn/free_proxy_ss@main/clash/config.\
+      yaml"
+    selected:
+      - name: GLOBAL
+        now: 🇮🇱:以色列-ss-31.133.100.49:50004-被墙-直连-解锁以色列地区NF非自制剧
+      - name: PROXY
+        now: DIRECT
+      - name: 被墙代理组
+        now: DIRECT
+      - name: 仅支持Netflix自制剧
+        now: DIRECT
+      - name: 解锁Netflix非自制剧
+        now: DIRECT
+      - name: 入口代理组
+        now: 仅支持Netflix自制剧
+      - name: 出口代理组
+        now: 被墙代理组
+      - name: NETFLIX_PROXY
+        now: 解锁Netflix非自制剧
+      - name: Tiktok_PROXY
+        now: PROXY
+      - name: Bili_PROXY
+        now: DIRECT
+      - name: IQiyi_PROXY
+        now: DIRECT
+    interval: 0
+    subInfo: {}
+    mode: global
+    cron: "*/5 * * * *"
+    headers: ""
+  - time: 1662396368886.yml
+    name: clash.yml
+    url: https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/clash.yml
+    selected:
+      - name: GLOBAL
+        now: 🇨🇳_CN_中国->🇹🇼_TW_台湾_1
+      - name: 🚀 节点选择
+        now: ♻️ 自动选择
+      - name: 🌍 国外媒体
+        now: ♻️ 自动选择
+      - name: 📲 电报信息
+        now: 🚀 节点选择
+      - name: Ⓜ️ 微软服务
+        now: 🎯 全球直连
+      - name: 🍎 苹果服务
+        now: 🎯 全球直连
+      - name: 🎯 全球直连
+        now: DIRECT
+      - name: 🛑 全球拦截
+        now: REJECT
+      - name: 🍃 应用净化
+        now: REJECT
+      - name: 🐟 漏网之鱼
+        now: 🚀 节点选择
+    interval: 0
+    subInfo: {}
+    mode: global
+    cron: "*/5 * * * *"
+    headers: ""
+  - time: 1662397821505.yml
+    name: Clash.yaml
+    url: https://openit.daycat.space/clash
+    selected:
+      - name: GLOBAL
+        now: 🇰🇷 韩国节点
+      - name: 🌐 节点选择
+        now: 🇹🇼 台湾节点
+      - name: ✋ 手动选择
+        now: MO 1 → openitsub.com
+      - name: 🌍 其他地区
+        now: MO 1 → openitsub.com
+      - name: 👉 国内网站
+        now: ☁️ 全球直连
+      - name: 👉 国外网站
+        now: 💡 自动选择
+      - name: 👉 例外网站
+        now: ☁️ 全球直连
+      - name: 📲 聊天软件
+        now: 🪜 故障转移
+      - name: 🌏 日韩媒体
+        now: 🌐 节点选择
+      - name: 🌏 港台媒体
+        now: 🌐 节点选择
+      - name: 🌍 国外媒体
+        now: 🌐 节点选择
+      - name: 📹 YouTube
+        now: 🌐 节点选择
+      - name: 🎵 Spotify
+        now: 🌐 节点选择
+      - name: 🎬 NETFLIX
+        now: 🌐 节点选择
+      - name: 🎬 Disney+
+        now: 🌐 节点选择
+      - name: 🎬 HBO
+        now: 🌐 节点选择
+      - name: 🎬 Prime
+        now: 🌐 节点选择
+      - name: 📺 Emby
+        now: 🌐 节点选择
+      - name: 📺 TikTok
+        now: 🌐 节点选择
+      - name: 📺 巴哈姆特
+        now: 🌐 节点选择
+      - name: 📺 哔哩哔哩
+        now: ☁️ 全球直连
+      - name: 📺 爱奇艺
+        now: ☁️ 全球直连
+      - name: 🍎 苹果服务
+        now: ☁️ 全球直连
+      - name: 🧩 微软服务
+        now: ☁️ 全球直连
+      - name: 🎮 游戏平台
+        now: ☁️ 全球直连
+      - name: 📥 BT & PT
+        now: ☁️ 全球直连
+      - name: ☁️ 全球直连
+        now: DIRECT
+      - name: 🛡 全球拦截
+        now: DIRECT
+      - name: 🍃 应用净化
+        now: REJECT
+    interval: 0
+    subInfo: {}
+    mode: global
+    cron: "*/5 * * * *"
+    headers: ""
+  - url: ""
+    time: 1671032808675.yml
+    name: clash.yml
+    selected:
+      - name: GLOBAL
+        now: 🎯 全球直连
+      - name: 🔰 节点选择
+        now: 🇦🇺 v2rayfree.eu.org - 澳大利亚悉尼 6
+      - name: 🎥 NETFLIX
+        now: 🔰 节点选择
+      - name: ⛔️ 广告拦截
+        now: 🛑 全球拦截
+      - name: 🚫 运营劫持
+        now: 🛑 全球拦截
+      - name: 🌍 国外媒体
+        now: 🔰 节点选择
+      - name: 🌏 国内媒体
+        now: 🎯 全球直连
+      - name: Ⓜ️ 微软服务
+        now: 🎯 全球直连
+      - name: 📲 电报信息
+        now: 🔰 节点选择
+      - name: 🍎 苹果服务
+        now: 🔰 节点选择
+      - name: 🎯 全球直连
+        now: DIRECT
+      - name: 🛑 全球拦截
+        now: REJECT
+      - name: 🐟 漏网之鱼
+        now: 🔰 节点选择
+    mode: global
+  - time: 1682934309630.yml
+    name: Clash_1682934374.yaml
+    url: https://www.mzkxzsubs.us/link/SRAg8HL8VImsCvGJ?clash=1
+    selected:
+      - name: GLOBAL
+        now: DIRECT
+      - name: 🔰国外流量
+        now: 免费用户节点-美国 | 1倍率
+      - name: ⚓️其他流量
+        now: 🔰国外流量
+      - name: ✈️Telegram
+        now: 🔰国外流量
+      - name: 🎬Youtube
+        now: 🔰国外流量
+      - name: 🎬Netflix
+        now: 🔰国外流量
+      - name: 🎬哔哩哔哩
+        now: 免费用户节点-美国 | 1倍率
+      - name: 🎬国外媒体
+        now: 🔰国外流量
+      - name: 🍎苹果服务
+        now: 🚀直接连接
+      - name: 🚀直接连接
+        now: DIRECT
+    interval: 0
+    subInfo:
+      upload: 100429
+      download: 3506585
+      total: 831520768
+      expire: 1679367238
+    mode: rule
+  - time: 1682936137636.yml
+    name: Clash_1682936137.yaml
+    url: https://rss2.jkl-sub.com/link/S2R2f2aZWaLWraR3?clash=1
+    selected: []
+    interval: 0
+    subInfo:
+      upload: 0
+      download: 0
+      total: 2795503616
+      expire: 1683022323
+index: 6
