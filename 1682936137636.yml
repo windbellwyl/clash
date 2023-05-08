@@ -1,7 +1,7 @@
-#!MANAGED-CONFIG https://rss2.jkl-sub.com/link/S2R2f2aZWaLWraR3?clash=1
+#!MANAGED-CONFIG https://rss2.jkl-sub.com/link/7nZ7mklN1PezjLzH?clash=1
 
 #---------------------------------------------------#
-## 上次更新于：2023-05-02 06:45:07
+## 上次更新于：2023-05-08 08:20:02
 #---------------------------------------------------#
 
 mixed-port: 7890
@@ -55,7 +55,7 @@ proxies:
     type: vmess
     server: tw99-hinet.mynodes001.one
     port: 554
-    uuid: 01747922-33ae-3aa2-8d48-ca02506d4d1e
+    uuid: 5682f5a2-20fc-319b-be0c-fce8e0808a3c
     alterId: 0
     cipher: auto
     udp: true
@@ -64,7 +64,7 @@ proxies:
     type: vmess
     server: jp-direct.node002.xyz
     port: 554
-    uuid: 01747922-33ae-3aa2-8d48-ca02506d4d1e
+    uuid: 5682f5a2-20fc-319b-be0c-fce8e0808a3c
     alterId: 0
     cipher: auto
     udp: true
@@ -74,7 +74,7 @@ proxies:
     type: vmess
     server: kr-direct.node002.xyz
     port: 554
-    uuid: 01747922-33ae-3aa2-8d48-ca02506d4d1e
+    uuid: 5682f5a2-20fc-319b-be0c-fce8e0808a3c
     alterId: 0
     cipher: auto
     udp: true
@@ -154,7 +154,7 @@ proxy-groups:
   -
     name: '⭐️ Auto'
     type: url-test
-    proxies:
+    proxies: 
       - '台湾99 Hinet直连 速度随缘 0.5x'
       - '日本直连A 速度随缘 0.3'
       - '韩国直连A 速度随缘 0.3x'
