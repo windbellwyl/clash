@@ -1,7 +1,7 @@
-#!MANAGED-CONFIG https://rss2.jkl-sub.com/link/q0sSTCMW0syTqkvj?clash=1
+#!MANAGED-CONFIG https://rss2.jkl-sub.com/link/KKyOjjhkzxQSbLKP?clash=1
 
 #---------------------------------------------------#
-## 上次更新于：2023-05-16 11:36:59
+## 上次更新于：2023-05-28 07:14:14
 #---------------------------------------------------#
 
 mixed-port: 7890
@@ -55,7 +55,7 @@ proxies:
     type: vmess
     server: tw99-hinet.mynodes001.one
     port: 554
-    uuid: 1d82e4d9-c401-3cba-9797-fa0cabeef335
+    uuid: 9e969ae2-fd35-364f-a530-7a300cfad111
     alterId: 0
     cipher: auto
     udp: true
@@ -64,7 +64,7 @@ proxies:
     type: vmess
     server: jp-direct.node002.xyz
     port: 554
-    uuid: 1d82e4d9-c401-3cba-9797-fa0cabeef335
+    uuid: 9e969ae2-fd35-364f-a530-7a300cfad111
     alterId: 0
     cipher: auto
     udp: true
@@ -74,7 +74,7 @@ proxies:
     type: vmess
     server: kr-direct.node002.xyz
     port: 554
-    uuid: 1d82e4d9-c401-3cba-9797-fa0cabeef335
+    uuid: 9e969ae2-fd35-364f-a530-7a300cfad111
     alterId: 0
     cipher: auto
     udp: true
